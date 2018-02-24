@@ -12,14 +12,14 @@ import java.util.*;
  * Created by user on 2/20/2018.
  */
 
-public class Database {
+public class DatabaseManager {
     private HashMap playerMap = new HashMap();
     private List<LCSPlayer> playerList = new ArrayList<>();
     //Need to figure out how we're getting data
     private String readPath = "";
     private Context mContext;
 
-    public Database(Context context){
+    public DatabaseManager(Context context){
         this.mContext = context;
         //On creation of a database object it should poll whatever source
         //and pull in data...
@@ -55,22 +55,7 @@ public class Database {
         }
         else{
             for(LCSPlayer play: playerList){
-                if(criteria[0].equals("None")){
-                    if(play.getLCSTeam().equals(criteria[1])){
-                        tempList.add(play.toString());
-                    }
-
-                }
-                else if(criteria[1].equals("None")){
-                    if(play.getRole().equals(criteria[0])){
-                        tempList.add(play.toString());
-                    }
-                }
-                else{
-                    if(play.getLCSTeam().equals(criteria[1]) && play.getRole().equals(criteria[0])){
-                        tempList.add(play.toString());
-                    }
-                }
+                if (play.validateSearchCriteria(criteria)) tempList.add(play.toString());
             }
         }
         return tempList;

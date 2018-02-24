@@ -26,6 +26,19 @@ public class LCSPlayer {
         this.isUpdated = true;
     }
 
+    public boolean validateSearchCriteria(String[] criteria){
+        if(criteria[0].equals("None")){
+            if(LCSTeam.equals(criteria[1])) return true;
+        }
+        else if(criteria[1].equals("None")){
+            if(role.equals(criteria[0])) return true;
+        }
+        else{
+            if(LCSTeam.equals(criteria[1]) && role.equals(criteria[0])) return true;
+        }
+
+        return false;
+    }
     public String toString(){
         return name + " " + role + " " + kills + " " + deaths + " " + assists + " " + cs + " " + LCSTeam;
     }

@@ -7,8 +7,8 @@ import java.util.List;
  */
 
 public class SearchController {
-    Database db;
-    public SearchController(Database db){
+    DatabaseManager db;
+    public SearchController(DatabaseManager db){
         this.db = db;
     }
 
