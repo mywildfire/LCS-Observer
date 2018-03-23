@@ -23,20 +23,38 @@ public class LCSPlayer {
     }
 
     public boolean validate(String[] criteria){
-        if(criteria[0].equals("None")){
-            if(LCSTeam.equals(criteria[1])) return true;
-        }
-        else if(criteria[1].equals("None")){
-            if(role.equals(criteria[0])) return true;
-        }
-        else{
-            if(LCSTeam.equals(criteria[1]) && role.equals(criteria[0])) return true;
+        //[0] is the category, [1] is the search
+        if(criteria[1].equals("")) return true;
+                
+        switch (criteria[0]) {
+            case "Name":
+                if(name.toLowerCase().contains(criteria[1].toLowerCase())) return true;
+                break;
+            case "Team":
+                if(LCSTeam.toLowerCase().contains(criteria[1].toLowerCase())) return true;
+                break;
+            case "Role":
+                if(role.toLowerCase().contains(criteria[1].toLowerCase())) return true;
+                break;
+            default:
+                return true;
         }
 
         return false;
     }
+    
+    @Override
     public String toString(){
-        return name + " " + role + " " + kills + " " + deaths + " " + assists + " " + cs + " " + LCSTeam;
+        return name + "<br>Role: " + role + "<br>Team: " + LCSTeam + "<br> K: " + kills + " D: " + deaths + " A: " + assists + "<br> CS: " + cs + "<br> Points: " + this.getPoints();
+    }
+    
+    public String[] toArray(){
+        String[] temp = {name, role, LCSTeam, ""+kills, ""+deaths, ""+assists, ""+cs};
+        return temp;
+    }
+    
+    public int getPoints(){
+        return (int) (kills*2 - deaths*.5 + assists*1.5 + cs*.01);
     }
 
     public String getName() {

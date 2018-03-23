@@ -1,12 +1,13 @@
 package observer;
 import java.util.*;
 
-public class DatabaseManager {
+public class DatabaseManager{
 
 	private static DatabaseManager instance = new DatabaseManager();
-        private final Database db = new Database();
+        private Database db = new Database();;
         
-	private DatabaseManager(){}
+	private DatabaseManager(){
+        }
 	
 	public static DatabaseManager getInstance() {
 		return instance;
@@ -15,6 +16,25 @@ public class DatabaseManager {
         public List<LCSPlayer> getLCSPlayers(){
             return db.getPlayerList();
         }
-	
-	
+        
+        public List<Matchup>[] getMatchups(){
+            return db.getMatchups();
+        }
+        
+        public boolean checkDuplicateUser(String[] userInfo){
+            return db.checkDuplicateUser(userInfo);
+        }
+        
+        public boolean checkDuplicateLeague(String[] leagueInfo){
+            return db.checkDuplicateLeague(leagueInfo);
+        }
+        
+        public void addUser(User newUser){
+            db.addUser(newUser);
+        }
+
+        public void addLeague(League newLeague){
+            db.addLeague(newLeague);
+        }
+        
 }

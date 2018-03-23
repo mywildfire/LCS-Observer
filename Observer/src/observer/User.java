@@ -6,11 +6,9 @@ public class User {
     private League[] leagues;
     private UserTeam myTeam;
 
-    public User(String username, String password, League[] leagues, UserTeam myTeam){
-        this.username = username;
-        this.password = password;
-        this.leagues = leagues;
-        this.myTeam = myTeam;
+    public User(String[] userInfo){
+        this.username = userInfo[0];
+        this.password = userInfo[1];
     }
 
     public String getUsername() {
