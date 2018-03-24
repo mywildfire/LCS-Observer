@@ -2119,7 +2119,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+leagues: League[]",
+											"text": "-leagues: League[]",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2148,7 +2148,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+myTeam: UserTeam[]",
+											"text": "-myTeam: UserTeam[]",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -7896,7 +7896,7 @@
 								"$ref": "AAAAAAFh94bo2swoBiY="
 							},
 							"name": "leagues",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "League[]",
@@ -7914,7 +7914,7 @@
 								"$ref": "AAAAAAFh94bo2swoBiY="
 							},
 							"name": "myTeam",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "UserTeam[]",
