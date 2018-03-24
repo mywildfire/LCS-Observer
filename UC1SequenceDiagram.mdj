@@ -2628,11 +2628,11 @@
 															"containerExtending": false,
 															"left": 725,
 															"top": 47,
-															"width": 75.03173828125,
+															"width": 121.2744140625,
 															"height": 13,
 															"autoResize": false,
 															"underline": false,
-															"text": "LCSPlayer",
+															"text": "player: LCSPlayer",
 															"horizontalAlignment": 2,
 															"verticalAlignment": 5,
 															"wordWrap": false
@@ -2700,7 +2700,7 @@
 													"containerExtending": false,
 													"left": 720,
 													"top": 40,
-													"width": 85.03173828125,
+													"width": 131.2744140625,
 													"height": 40,
 													"autoResize": false,
 													"stereotypeLabel": {
@@ -2734,7 +2734,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 763,
+													"left": 786,
 													"top": 80,
 													"width": 1,
 													"height": 257,
@@ -2752,7 +2752,7 @@
 											"containerExtending": false,
 											"left": 720,
 											"top": 40,
-											"width": 85.03173828125,
+											"width": 131.2744140625,
 											"height": 297,
 											"autoResize": false,
 											"stereotypeDisplay": "label",
@@ -2796,7 +2796,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 442,
+													"left": 454,
 													"top": 272,
 													"width": 225.4306640625,
 													"height": 13,
@@ -2831,7 +2831,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 554,
+													"left": 566,
 													"top": 257,
 													"width": 0,
 													"height": 13,
@@ -2865,7 +2865,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 554,
+													"left": 566,
 													"top": 292,
 													"width": 0,
 													"height": 13,
@@ -2899,7 +2899,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 756,
+													"left": 779,
 													"top": 288,
 													"width": 14,
 													"height": 29,
@@ -2922,7 +2922,7 @@
 												"$ref": "AAAAAAFhxTEbvq+DTkU="
 											},
 											"lineStyle": 0,
-											"points": "353:288;756:288",
+											"points": "353:288;779:288",
 											"nameLabel": {
 												"$ref": "AAAAAAFiSwRoNx0e1WQ="
 											},
@@ -3427,7 +3427,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFhr7DUDfAHVkM="
 									},
-									"name": "LCSPlayer",
+									"name": "player",
 									"visibility": "public",
 									"represent": {
 										"$ref": "AAAAAAFiSwP+Zhz57tQ="
@@ -3474,6 +3474,7 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -3491,6 +3492,7 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -3544,7 +3546,9 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
-							"type": "",
+							"type": {
+								"$ref": "AAAAAAFhQ2KtqGrmG7w="
+							},
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
