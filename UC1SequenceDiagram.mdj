@@ -1488,11 +1488,11 @@
 															"containerExtending": false,
 															"left": 93,
 															"top": 47,
-															"width": 80.08447265625,
+															"width": 93.09716796875,
 															"height": 13,
 															"autoResize": false,
 															"underline": false,
-															"text": "Search GUI",
+															"text": "UserInterface",
 															"horizontalAlignment": 2,
 															"verticalAlignment": 5,
 															"wordWrap": false
@@ -1560,7 +1560,7 @@
 													"containerExtending": false,
 													"left": 88,
 													"top": 40,
-													"width": 90.08447265625,
+													"width": 103.09716796875,
 													"height": 40,
 													"autoResize": false,
 													"stereotypeLabel": {
@@ -1594,7 +1594,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 133,
+													"left": 140,
 													"top": 80,
 													"width": 1,
 													"height": 301,
@@ -1612,7 +1612,7 @@
 											"containerExtending": false,
 											"left": 88,
 											"top": 40,
-											"width": 90.08447265625,
+											"width": 103.09716796875,
 											"height": 341,
 											"autoResize": false,
 											"stereotypeDisplay": "label",
@@ -1694,7 +1694,7 @@
 															"height": 13,
 															"autoResize": false,
 															"underline": false,
-															"text": "Search Controller",
+															"text": "SearchController",
 															"horizontalAlignment": 2,
 															"verticalAlignment": 5,
 															"wordWrap": false
@@ -2084,7 +2084,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 39,
+													"left": 42,
 													"top": 84,
 													"width": 78.04443359375,
 													"height": 13,
@@ -2119,7 +2119,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 78,
+													"left": 81,
 													"top": 69,
 													"width": 0,
 													"height": 13,
@@ -2153,7 +2153,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 78,
+													"left": 81,
 													"top": 104,
 													"width": 0,
 													"height": 13,
@@ -2187,7 +2187,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 126,
+													"left": 133,
 													"top": 100,
 													"width": 14,
 													"height": 61,
@@ -2210,7 +2210,7 @@
 												"$ref": "AAAAAAFhxTF5EK/gIqo="
 											},
 											"lineStyle": 0,
-											"points": "30:100;126:100",
+											"points": "30:100;133:100",
 											"nameLabel": {
 												"$ref": "AAAAAAFhxTF5Eq/jF14="
 											},
@@ -2254,7 +2254,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 131,
+													"left": 135,
 													"top": 88,
 													"width": 222.51708984375,
 													"height": 13,
@@ -2289,7 +2289,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 242,
+													"left": 246,
 													"top": 73,
 													"width": 0,
 													"height": 13,
@@ -2323,7 +2323,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 242,
+													"left": 246,
 													"top": 108,
 													"width": 0,
 													"height": 13,
@@ -2380,7 +2380,7 @@
 												"$ref": "AAAAAAFhxTBvna9jgF8="
 											},
 											"lineStyle": 0,
-											"points": "139:104;346:104",
+											"points": "146:104;346:104",
 											"nameLabel": {
 												"$ref": "AAAAAAFhxTGTHq/6/ZY="
 											},
@@ -3133,7 +3133,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 149,
+													"left": 152,
 													"top": 354,
 													"width": 186.41162109375,
 													"height": 13,
@@ -3168,7 +3168,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 242,
+													"left": 245,
 													"top": 369,
 													"width": 0,
 													"height": 13,
@@ -3202,7 +3202,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 243,
+													"left": 246,
 													"top": 334,
 													"width": 0,
 													"height": 13,
@@ -3236,7 +3236,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 133,
+													"left": 140,
 													"top": 350,
 													"width": 14,
 													"height": 25,
@@ -3259,7 +3259,7 @@
 												"$ref": "AAAAAAFhxTEbvq+DTkU="
 											},
 											"lineStyle": 0,
-											"points": "353:350;133:350",
+											"points": "353:350;140:350",
 											"nameLabel": {
 												"$ref": "AAAAAAFiSwYWUR2EZzw="
 											},
@@ -3379,7 +3379,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFhr7DUDfAHVkM="
 									},
-									"name": "Search GUI",
+									"name": "UserInterface",
 									"visibility": "public",
 									"represent": {
 										"$ref": "AAAAAAFhxTBvnK9bfy8="
@@ -3392,7 +3392,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFhr7DUDfAHVkM="
 									},
-									"name": "Search Controller",
+									"name": "SearchController",
 									"visibility": "public",
 									"represent": {
 										"$ref": "AAAAAAFhxTEbvK97cnE="
@@ -3474,7 +3474,6 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
-							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -3492,7 +3491,6 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
-							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,

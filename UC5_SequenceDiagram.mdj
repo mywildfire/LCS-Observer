@@ -46,7 +46,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFiUSasfIqeR/I="
 							},
-							"name": "SequenceDiagram1",
+							"name": "Create League",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -77,11 +77,11 @@
 											"containerExtending": false,
 											"left": 75.97900390625,
 											"top": 10,
-											"width": 115.9052734375,
+											"width": 87.0107421875,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "SequenceDiagram1",
+											"text": "Create League",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -200,7 +200,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Create League GUI",
+													"text": "UserInterface",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -402,7 +402,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "League Controller",
+													"text": "LeagueController",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -938,19 +938,19 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 352,
-											"top": 96,
-											"width": 220.39697265625,
+											"left": 323,
+											"top": 87,
+											"width": 274.59326171875,
 											"height": 13,
 											"autoResize": false,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
+											"alpha": -4.601732307991315,
+											"distance": 18.110770276274835,
 											"hostEdge": {
 												"$ref": "AAAAAAFiUTdRaYsoXDU="
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "2 : checkDuplicate(String[] leagueInfo)",
+											"text": "2 : checkDuplicateLeague(String[] leagueInfo)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1492,7 +1492,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "4 : createLeague(String[] leagueInfo)",
+											"text": "4 : League(String[] leagueInfo)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1990,9 +1990,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 172,
+											"left": 167,
 											"top": 229,
-											"width": 88.9052734375,
+											"width": 99.734375,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -2002,7 +2002,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "7 : new League",
+											"text": "7 : boolean result",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2165,7 +2165,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFiUSasfIqeR/I="
 							},
-							"name": "checkDuplicate",
+							"name": "checkDuplicateLeague",
 							"source": {
 								"$ref": "AAAAAAFiUTPQeIrPaHA="
 							},
@@ -2200,7 +2200,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFiUSasfIqeR/I="
 							},
-							"name": "createLeague",
+							"name": "League",
 							"source": {
 								"$ref": "AAAAAAFiUTPQeIrPaHA="
 							},
@@ -2253,7 +2253,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFiUSasfIqeR/I="
 							},
-							"name": "new League",
+							"name": "boolean result",
 							"source": {
 								"$ref": "AAAAAAFiUTPQeIrPaHA="
 							},
@@ -2272,7 +2272,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFiUSasfIqeR/I="
 							},
-							"name": "Create League GUI",
+							"name": "UserInterface",
 							"visibility": "public",
 							"represent": {
 								"$ref": "AAAAAAFiUScmaYqso9M="
@@ -2285,7 +2285,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFiUSasfIqeR/I="
 							},
-							"name": "League Controller",
+							"name": "LeagueController",
 							"visibility": "public",
 							"represent": {
 								"$ref": "AAAAAAFiUTPQeIrOItE="
@@ -2333,6 +2333,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -2367,6 +2368,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -2384,6 +2386,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
