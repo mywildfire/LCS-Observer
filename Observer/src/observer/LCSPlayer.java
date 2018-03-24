@@ -61,55 +61,32 @@ public class LCSPlayer {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public String getRole() {
         return role;
     }
 
-    public void setRole(String role) {
-        this.role = role;
-    }
 
     public float getKills() {
         return kills;
     }
 
-    public void setKills(float kills) {
-        this.kills = kills;
-    }
 
     public float getDeaths() {
         return deaths;
     }
 
-    public void setDeaths(float deaths) {
-        this.deaths = deaths;
-    }
+
 
     public float getAssists() {
         return assists;
     }
 
-    public void setAssists(float assists) {
-        this.assists = assists;
-    }
-
+ 
     public float getCs() {
         return cs;
     }
 
-    public void setCs(float cs) {
-        this.cs = cs;
-    }
-
     public String getLCSTeam() {
         return LCSTeam;
-    }
-
-    public void setLCSTeam(String LCSTeam) {
-        this.LCSTeam = LCSTeam;
     }
 }
