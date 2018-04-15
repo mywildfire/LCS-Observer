@@ -124,7 +124,7 @@
 									"containerExtending": false,
 									"left": 5,
 									"top": 5,
-									"width": 892,
+									"width": 1012,
 									"height": 595,
 									"autoResize": false,
 									"nameLabel": {
@@ -371,7 +371,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 128,
+													"left": 448,
 													"top": 0,
 													"width": 0,
 													"height": 13,
@@ -396,7 +396,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 277,
+													"left": 437,
 													"top": 47,
 													"width": 121.236328125,
 													"height": 13,
@@ -422,7 +422,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 128,
+													"left": 448,
 													"top": 0,
 													"width": 106.20263671875,
 													"height": 13,
@@ -448,7 +448,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 128,
+													"left": 448,
 													"top": 0,
 													"width": 0,
 													"height": 13,
@@ -468,7 +468,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 272,
+											"left": 432,
 											"top": 40,
 											"width": 131.236328125,
 											"height": 40,
@@ -504,7 +504,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 338,
+											"left": 498,
 											"top": 80,
 											"width": 1,
 											"height": 231,
@@ -520,7 +520,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 272,
+									"left": 432,
 									"top": 40,
 									"width": 131.236328125,
 									"height": 271,
@@ -573,7 +573,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 448,
+													"left": 736,
 													"top": 0,
 													"width": 0,
 													"height": 13,
@@ -598,7 +598,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 581,
+													"left": 725,
 													"top": 47,
 													"width": 82.236328125,
 													"height": 13,
@@ -624,7 +624,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 448,
+													"left": 736,
 													"top": 0,
 													"width": 106.20263671875,
 													"height": 13,
@@ -650,7 +650,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 448,
+													"left": 736,
 													"top": 0,
 													"width": 0,
 													"height": 13,
@@ -670,7 +670,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 576,
+											"left": 720,
 											"top": 40,
 											"width": 92.236328125,
 											"height": 40,
@@ -706,7 +706,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 622,
+											"left": 766,
 											"top": 80,
 											"width": 1,
 											"height": 241,
@@ -722,7 +722,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 576,
+									"left": 720,
 									"top": 40,
 									"width": 92.236328125,
 									"height": 281,
@@ -775,7 +775,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 576,
+													"left": 880,
 													"top": 0,
 													"width": 0,
 													"height": 13,
@@ -800,7 +800,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 765,
+													"left": 917,
 													"top": 47,
 													"width": 72.8671875,
 													"height": 13,
@@ -826,7 +826,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 576,
+													"left": 880,
 													"top": 0,
 													"width": 106.20263671875,
 													"height": 13,
@@ -852,7 +852,7 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 576,
+													"left": 880,
 													"top": 0,
 													"width": 0,
 													"height": 13,
@@ -872,7 +872,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 760,
+											"left": 912,
 											"top": 40,
 											"width": 82.8671875,
 											"height": 40,
@@ -908,7 +908,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 801,
+											"left": 953,
 											"top": 80,
 											"width": 1,
 											"height": 241,
@@ -924,7 +924,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 760,
+									"left": 912,
 									"top": 40,
 									"width": 82.8671875,
 									"height": 281,
@@ -1140,9 +1140,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 139,
+											"left": 132,
 											"top": 104,
-											"width": 173.39892578125,
+											"width": 346.80419921875,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.3521263220976745,
@@ -1152,7 +1152,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "2 : createTeam(String[] name)",
+											"text": "2 : createTeam(String name, LCSPlayer[] l1, LCSPlayer[] l2)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1175,7 +1175,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 223,
+											"left": 303,
 											"top": 88,
 											"width": 0,
 											"height": 13,
@@ -1209,7 +1209,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 223,
+											"left": 303,
 											"top": 123,
 											"width": 0,
 											"height": 13,
@@ -1243,7 +1243,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 331,
+											"left": 491,
 											"top": 119,
 											"width": 14,
 											"height": 178,
@@ -1266,7 +1266,7 @@
 										"$ref": "AAAAAAFixvmoHViZEG4="
 									},
 									"lineStyle": 0,
-									"points": "116:119;331:119",
+									"points": "116:119;491:119",
 									"nameLabel": {
 										"$ref": "AAAAAAFixv97dlkXqUM="
 									},
@@ -1310,9 +1310,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 368,
+											"left": 507,
 											"top": 104,
-											"width": 223.25341796875,
+											"width": 249.259765625,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -1322,7 +1322,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "3 : checkDuplicate(String[] teamName)",
+											"text": "3 : checkDuplicateTeam(String teamName)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1345,7 +1345,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 479,
+											"left": 631,
 											"top": 89,
 											"width": 0,
 											"height": 13,
@@ -1379,7 +1379,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 479,
+											"left": 631,
 											"top": 124,
 											"width": 0,
 											"height": 13,
@@ -1413,7 +1413,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 615,
+											"left": 759,
 											"top": 120,
 											"width": 14,
 											"height": 29,
@@ -1436,7 +1436,7 @@
 										"$ref": "AAAAAAFixvs8tFi80/0="
 									},
 									"lineStyle": 0,
-									"points": "344:120;615:120",
+									"points": "504:120;759:120",
 									"nameLabel": {
 										"$ref": "AAAAAAFixv/vIlktevc="
 									},
@@ -1480,7 +1480,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 425,
+											"left": 577,
 											"top": 143,
 											"width": 106.9833984375,
 											"height": 13,
@@ -1515,7 +1515,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 478,
+											"left": 630,
 											"top": 158,
 											"width": 0,
 											"height": 13,
@@ -1549,7 +1549,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 479,
+											"left": 631,
 											"top": 123,
 											"width": 0,
 											"height": 13,
@@ -1583,7 +1583,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 331,
+											"left": 491,
 											"top": 139,
 											"width": 14,
 											"height": 25,
@@ -1606,7 +1606,7 @@
 										"$ref": "AAAAAAFixv3z7ljcRck="
 									},
 									"lineStyle": 0,
-									"points": "615:139;344:139",
+									"points": "759:139;504:139",
 									"nameLabel": {
 										"$ref": "AAAAAAFixwLqEllLTkc="
 									},
@@ -1650,19 +1650,19 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 467,
-											"top": 170,
-											"width": 204.4580078125,
+											"left": 511,
+											"top": 168,
+											"width": 440.6923828125,
 											"height": 13,
 											"autoResize": false,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
+											"alpha": 1.1071480511276461,
+											"distance": 13.416407864998739,
 											"hostEdge": {
 												"$ref": "AAAAAAFixwMtHFlggNs="
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "5 : createTeam(String[] teamName)",
+											"text": "5 : UserTeam UserTeam(String[] teamName, LCSPlayer[] l1, LCSPlayer[] l2)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1685,7 +1685,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 569,
+											"left": 725,
 											"top": 155,
 											"width": 0,
 											"height": 13,
@@ -1719,7 +1719,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 569,
+											"left": 725,
 											"top": 190,
 											"width": 0,
 											"height": 13,
@@ -1753,7 +1753,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 794,
+											"left": 946,
 											"top": 186,
 											"width": 14,
 											"height": 29,
@@ -1776,7 +1776,7 @@
 										"$ref": "AAAAAAFixvs8tFi80/0="
 									},
 									"lineStyle": 0,
-									"points": "344:186;794:186",
+									"points": "504:186;946:186",
 									"nameLabel": {
 										"$ref": "AAAAAAFixwMtHFlh0wk="
 									},
@@ -1788,176 +1788,6 @@
 									},
 									"activation": {
 										"$ref": "AAAAAAFixwMtHFlk/Q4="
-									},
-									"showProperty": true,
-									"showType": true
-								},
-								{
-									"_type": "UMLSeqMessageView",
-									"_id": "AAAAAAFixwN/Fll23J0=",
-									"_parent": {
-										"$ref": "AAAAAAFixvkdgViEobw="
-									},
-									"model": {
-										"$ref": "AAAAAAFixwN/Fll1r00="
-									},
-									"subViews": [
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFixwN/Fll3U10=",
-											"_parent": {
-												"$ref": "AAAAAAFixwN/Fll23J0="
-											},
-											"model": {
-												"$ref": "AAAAAAFixwN/Fll1r00="
-											},
-											"visible": true,
-											"enabled": true,
-											"lineColor": "#000000",
-											"fillColor": "#ffffff",
-											"fontColor": "#000000",
-											"font": "Arial;13;0",
-											"showShadow": true,
-											"containerChangeable": false,
-											"containerExtending": false,
-											"left": 529,
-											"top": 208,
-											"width": 78.75537109375,
-											"height": 13,
-											"autoResize": false,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
-											"hostEdge": {
-												"$ref": "AAAAAAFixwN/Fll23J0="
-											},
-											"edgePosition": 1,
-											"underline": false,
-											"text": "6 : new Team",
-											"horizontalAlignment": 2,
-											"verticalAlignment": 5,
-											"wordWrap": false
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFixwN/Fll4nsA=",
-											"_parent": {
-												"$ref": "AAAAAAFixwN/Fll23J0="
-											},
-											"model": {
-												"$ref": "AAAAAAFixwN/Fll1r00="
-											},
-											"visible": false,
-											"enabled": true,
-											"lineColor": "#000000",
-											"fillColor": "#ffffff",
-											"fontColor": "#000000",
-											"font": "Arial;13;0",
-											"showShadow": true,
-											"containerChangeable": false,
-											"containerExtending": false,
-											"left": 568,
-											"top": 223,
-											"width": 0,
-											"height": 13,
-											"autoResize": false,
-											"alpha": 1.5707963267948966,
-											"distance": 25,
-											"hostEdge": {
-												"$ref": "AAAAAAFixwN/Fll23J0="
-											},
-											"edgePosition": 1,
-											"underline": false,
-											"horizontalAlignment": 2,
-											"verticalAlignment": 5,
-											"wordWrap": false
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFixwN/Fll5ff4=",
-											"_parent": {
-												"$ref": "AAAAAAFixwN/Fll23J0="
-											},
-											"model": {
-												"$ref": "AAAAAAFixwN/Fll1r00="
-											},
-											"visible": false,
-											"enabled": true,
-											"lineColor": "#000000",
-											"fillColor": "#ffffff",
-											"fontColor": "#000000",
-											"font": "Arial;13;0",
-											"showShadow": true,
-											"containerChangeable": false,
-											"containerExtending": false,
-											"left": 569,
-											"top": 188,
-											"width": 0,
-											"height": 13,
-											"autoResize": false,
-											"alpha": -1.5707963267948966,
-											"distance": 10,
-											"hostEdge": {
-												"$ref": "AAAAAAFixwN/Fll23J0="
-											},
-											"edgePosition": 1,
-											"underline": false,
-											"horizontalAlignment": 2,
-											"verticalAlignment": 5,
-											"wordWrap": false
-										},
-										{
-											"_type": "UMLActivationView",
-											"_id": "AAAAAAFixwN/Fll6W4E=",
-											"_parent": {
-												"$ref": "AAAAAAFixwN/Fll23J0="
-											},
-											"model": {
-												"$ref": "AAAAAAFixwN/Fll1r00="
-											},
-											"visible": false,
-											"enabled": true,
-											"lineColor": "#000000",
-											"fillColor": "#ffffff",
-											"fontColor": "#000000",
-											"font": "Arial;13;0",
-											"showShadow": true,
-											"containerChangeable": false,
-											"containerExtending": false,
-											"left": 331,
-											"top": 204,
-											"width": 14,
-											"height": 25,
-											"autoResize": false
-										}
-									],
-									"visible": true,
-									"enabled": true,
-									"lineColor": "#000000",
-									"fillColor": "#ffffff",
-									"fontColor": "#000000",
-									"font": "Arial;13;0",
-									"showShadow": true,
-									"containerChangeable": false,
-									"containerExtending": false,
-									"head": {
-										"$ref": "AAAAAAFixvs8tFi80/0="
-									},
-									"tail": {
-										"$ref": "AAAAAAFixv4JZFj8Q+c="
-									},
-									"lineStyle": 0,
-									"points": "794:204;344:204",
-									"nameLabel": {
-										"$ref": "AAAAAAFixwN/Fll3U10="
-									},
-									"stereotypeLabel": {
-										"$ref": "AAAAAAFixwN/Fll4nsA="
-									},
-									"propertyLabel": {
-										"$ref": "AAAAAAFixwN/Fll5ff4="
-									},
-									"activation": {
-										"$ref": "AAAAAAFixwN/Fll6W4E="
 									},
 									"showProperty": true,
 									"showType": true
@@ -1990,9 +1820,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 422,
+											"left": 560,
 											"top": 220,
-											"width": 114.87353515625,
+											"width": 142.32080078125,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -2002,7 +1832,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "7 : addTeam(Team)",
+											"text": "6 : addTeam(UserTeam)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2025,7 +1855,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 479,
+											"left": 631,
 											"top": 205,
 											"width": 0,
 											"height": 13,
@@ -2059,7 +1889,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 479,
+											"left": 631,
 											"top": 240,
 											"width": 0,
 											"height": 13,
@@ -2093,7 +1923,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 615,
+											"left": 759,
 											"top": 236,
 											"width": 14,
 											"height": 29,
@@ -2116,7 +1946,7 @@
 										"$ref": "AAAAAAFixvs8tFi80/0="
 									},
 									"lineStyle": 0,
-									"points": "344:236;615:236",
+									"points": "504:236;759:236",
 									"nameLabel": {
 										"$ref": "AAAAAAFixwOkolmN6sc="
 									},
@@ -2184,7 +2014,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 180,
+											"left": 260,
 											"top": 284,
 											"width": 78.75537109375,
 											"height": 13,
@@ -2196,7 +2026,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "8 : new Team",
+											"text": "7 : boolean",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2219,7 +2049,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 219,
+											"left": 299,
 											"top": 299,
 											"width": 0,
 											"height": 13,
@@ -2253,7 +2083,7 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 220,
+											"left": 300,
 											"top": 264,
 											"width": 0,
 											"height": 13,
@@ -2310,7 +2140,7 @@
 										"$ref": "AAAAAAFixvs8tFi80/0="
 									},
 									"lineStyle": 0,
-									"points": "331:280;110:280",
+									"points": "491:280;110:280",
 									"nameLabel": {
 										"$ref": "AAAAAAFixwQG4FmmCr4="
 									},
@@ -2367,7 +2197,7 @@
 							},
 							"visibility": "public",
 							"messageSort": "synchCall",
-							"arguments": "String[] name",
+							"arguments": "String name, LCSPlayer[] l1, LCSPlayer[] l2",
 							"isConcurrentIteration": false
 						},
 						{
@@ -2376,7 +2206,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFixvkdgViDPbg="
 							},
-							"name": "checkDuplicate",
+							"name": "checkDuplicateTeam",
 							"source": {
 								"$ref": "AAAAAAFixvs8s1i1+UY="
 							},
@@ -2385,7 +2215,7 @@
 							},
 							"visibility": "public",
 							"messageSort": "synchCall",
-							"arguments": "String[] teamName",
+							"arguments": "String teamName",
 							"isConcurrentIteration": false
 						},
 						{
@@ -2411,7 +2241,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFixvkdgViDPbg="
 							},
-							"name": "createTeam",
+							"name": "UserTeam UserTeam",
 							"source": {
 								"$ref": "AAAAAAFixvs8s1i1+UY="
 							},
@@ -2420,24 +2250,7 @@
 							},
 							"visibility": "public",
 							"messageSort": "synchCall",
-							"arguments": "String[] teamName",
-							"isConcurrentIteration": false
-						},
-						{
-							"_type": "UMLMessage",
-							"_id": "AAAAAAFixwN/Fll1r00=",
-							"_parent": {
-								"$ref": "AAAAAAFixvkdgViDPbg="
-							},
-							"name": "new Team",
-							"source": {
-								"$ref": "AAAAAAFixv4JZFj1XaU="
-							},
-							"target": {
-								"$ref": "AAAAAAFixvs8s1i1+UY="
-							},
-							"visibility": "public",
-							"messageSort": "reply",
+							"arguments": "String[] teamName, LCSPlayer[] l1, LCSPlayer[] l2",
 							"isConcurrentIteration": false
 						},
 						{
@@ -2455,7 +2268,7 @@
 							},
 							"visibility": "public",
 							"messageSort": "synchCall",
-							"arguments": "Team",
+							"arguments": "UserTeam",
 							"isConcurrentIteration": false
 						},
 						{
@@ -2464,7 +2277,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFixvkdgViDPbg="
 							},
-							"name": "new Team",
+							"name": "boolean",
 							"source": {
 								"$ref": "AAAAAAFixvs8s1i1+UY="
 							},
