@@ -27,6 +27,10 @@ public class User {
         this.password = password;
     }
     
+    public boolean checkPassword(String password){
+        return this.password.equals(password);
+    }
+    
     public League[] getLeagues() {return leagues;}
     public void setLeagues(League[] leagues) {
     	this.leagues = leagues;

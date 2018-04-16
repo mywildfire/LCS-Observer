@@ -21,6 +21,7 @@ public class Database{
         generateMatchups();
     }
     
+    
     public boolean checkDuplicateUser(String[] userInfo){
         for(User account: users){
             if(account.getUsername().equals(userInfo[0]) && account.getPassword().equals(userInfo[1])) return true;
@@ -35,6 +36,13 @@ public class Database{
         return false;
     }
     
+    public boolean checkDuplicateTeam(String teamInfo){
+        for(UserTeam team: teams){
+            if(team.getName().equals(teamInfo)) return true;
+        }
+        return false;    
+    }
+    
     public void addUser(User newUser){
         users.add(newUser);
     }
@@ -43,12 +51,31 @@ public class Database{
         leagues.add(newLeague);
     }
     
+    public void addTeam(UserTeam newTeam){
+        teams.add(newTeam);
+    }
+    
     public List<LCSPlayer> getPlayerList(){
         return players;
     }
     
     public List<Matchup>[] getMatchups(){return matchups;}
     
+    public List<League> getLeagues(){return leagues;}
+    
+    public List<UserTeam> getTeams(){return teams;}
+    
+    public List<User> getUsers(){return users;}
+    
+    public List<UserTeam> getAvailableTeams(){
+        List<UserTeam> temp = new ArrayList<UserTeam>();
+        
+        for(UserTeam team: teams){
+            if(team.isAvailable()) temp.add(team);
+        }
+        
+        return temp;
+    }
     private void generatePlayers(){
         Scanner in = new Scanner(System.in);
         try{
@@ -91,7 +118,7 @@ public class Database{
             int num = rn.nextInt(21);
             LCSPlayer[] team1 = {randP(), randP(), randP(), randP(), randP()};
             LCSPlayer[] team2 = {randP(), randP(), randP(), randP(), randP()};
-            teams.add(new UserTeam("Team" + num, team1, team2));
+            teams.add(new UserTeam("Team " + i, team1, team2));
         }
     }
     

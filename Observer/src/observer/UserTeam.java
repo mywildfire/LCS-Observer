@@ -4,6 +4,7 @@ public class UserTeam {
     private String name;
     private LCSPlayer[] players;
     private LCSPlayer[] backupPlayers;
+    private League league;
     private boolean isUpdated;
 
     public UserTeam(String name, LCSPlayer[] players, LCSPlayer[] backupPlayers){
@@ -11,6 +12,11 @@ public class UserTeam {
         this.players=players;
         this.backupPlayers=backupPlayers;
         this.isUpdated=true;
+
+    }
+    
+    public UserTeam(String name){
+        this.name = name;
     }
 
     public String getName() {
@@ -39,6 +45,14 @@ public class UserTeam {
 
     public boolean isUpdated() {
         return isUpdated;
+    }
+    
+    public boolean isAvailable(){
+        return league == null;
+    }
+    
+    public void setLeague(League league){
+        this.league = league;
     }
 
     public void setUpdated(boolean updated) {

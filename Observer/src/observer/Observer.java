@@ -1,5 +1,8 @@
 package observer;
 
+import observer.GUI.LoginGUI;
+import observer.Controllers.SearchController;
+
 public class Observer {
 
 
